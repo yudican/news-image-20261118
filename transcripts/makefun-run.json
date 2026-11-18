@@ -20,11 +20,14 @@
   "provider": "Muse",
   "model": "Muse Spark",
   "effort": "default",
-  "mcp": [],
+  "mcp_servers": [],
   "declared": {
     "harness": "Muse",
+    "harness_version": "1",
     "provider": "Muse",
-    "model": "Muse Spark"
+    "model": "Muse Spark",
+    "reasoning_effort": "default",
+    "notes": "main.py was authored and committed in this browser session but never executed here — this browser has no terminal or Node.js, so no run transcript or program output exists. The program uses only the Python standard library; running python3 main.py writes news-2026-11-18.svg."
   },
   "sessions": ["session.json"],
   "notes": "main.py was authored and committed in this browser session but never executed here — this browser has no terminal or Node.js, so no run transcript or program output exists. The program uses only the Python standard library; running python3 main.py writes news-2026-11-18.svg."
