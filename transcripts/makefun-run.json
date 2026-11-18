@@ -1,7 +1,5 @@
 {
   "format": "makefun-run/1",
-  "competition": "news-image-20261118",
-  "repo": "https://github.com/yudican/news-image-20261118",
   "prompt": {
     "text": "Login ke https://make.fun/ dengan akun email yudicandra277@gmail.com (gunakan login Google yang tersimpan jika diminta, atau sign-in yang tersedia). Setelah login, cari entry GRATISAN / free entry untuk dapat rewards — jangan pakai yang berbayar, jangan beli atau top-up apa pun. Kerjakan task-task gratisnya sampai dapat rewards. Terus kerjakan sampai rewards berhasil didapat, laporkan: apa rewards yang didapat, task apa saja yang dikerjakan, dan bukti/statusnya di akun. Kalau ada pilihan task, pilih yang gratis dan paling mudah dulu. Kalau login butuh kode/verifikasi, tanyakan lewat browser question, jangan lanjut tanpa itu.",
     "origin": "handed-off",
@@ -15,11 +13,6 @@
     "status": "none",
     "why": null
   },
-  "harness": "Muse",
-  "harness_version": "1",
-  "provider": "Muse",
-  "model": "Muse Spark",
-  "effort": "default",
   "mcp_servers": [],
   "declared": {
     "harness": "Muse",
@@ -28,7 +21,5 @@
     "model": "Muse Spark",
     "reasoning_effort": "default",
     "notes": "main.py was authored and committed in this browser session but never executed here — this browser has no terminal or Node.js, so no run transcript or program output exists. The program uses only the Python standard library; running python3 main.py writes news-2026-11-18.svg."
-  },
-  "sessions": ["session.json"],
-  "notes": "main.py was authored and committed in this browser session but never executed here — this browser has no terminal or Node.js, so no run transcript or program output exists. The program uses only the Python standard library; running python3 main.py writes news-2026-11-18.svg."
+  }
 }
