@@ -12,7 +12,8 @@
     "why": "The browser agent cannot see its own system prompt"
   },
   "instructions": {
-    "status": "none"
+    "status": "none",
+    "why": null
   },
   "harness": "Muse",
   "harness_version": "1",
